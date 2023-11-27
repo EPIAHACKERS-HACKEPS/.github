@@ -45,6 +45,77 @@ Arnau is a seasoned software developer with expertise in JavaScript, TypeScript,
 
 Jordi is a passionate full-stack developer specializing in web application security. With a recent certification in Technical Cybersecurity, he brings a unique blend of development and security skills to the team.
 
+
+## Our Achievements
+
+- **HackEPS 2022 (Lleida)**
+  - Participant in the 'Lleida.net Ransomware Challenge,' showcasing skills in programming, teamwork, and problem-solving.
+  - [HackEPS 2022 Devpost](https://devpost.com/software/epiahackers)
+  - [HackEPS 2022 Article](https://www.eps.udl.cat/ca/noticies/Exit-de-la-6a-edicio-de-la-hackeps-amb-record-de-partipacio)
+
+- **HackEPS November 2023 (Lleida)**
+  - Project: EPIAHACKERS:INGROUP_CHALLENGE
+  - Revolutionizing user feedback management using AI-infused chatbot for insights and issue prioritization.
+  - [GitHub Repo](https://github.com/your-repo-link)
+
+- **HackUPC Projects**
+  ### 1. Vueling: Flight Fest HACKUPC 2023
+  #### Inspiration
+  The project aimed to enhance the in-flight experience by providing an entertainment and communication platform that operates without an internet connection.
+
+  #### What it does
+  Vueling: Flight Fest allows passengers to connect, play, share information about their flight destination, and engage in collaborative activities. It is compatible with smartphones and laptops, offering an offline experience.
+
+  #### How we built it
+  Utilizing React for the UI, styled-components for styling, TypeScript for frontend development, and Python with Flask for backend real-time communication. Integration of weather API and OpenAI API added real-time weather information and generated engaging content.
+
+  #### Challenges
+  Creating an engaging user experience without compromising functionality and integrating multiple technologies were significant challenges.
+
+  #### Accomplishments
+  Proudly created a seamless in-flight entertainment platform with integrated technologies, providing a unique experience for passengers.
+
+  #### What we learned
+  Learned about integrating technologies for a cohesive user experience and honed teamwork skills to overcome challenges.
+
+  #### What's next
+  Excited to continue developing Vueling: Flight Fest, incorporating user feedback, and adding features like chat between passengers and peer-to-peer communication.
+
+  #### Built With
+  React, TypeScript, Flask, Python, OpenAI API, styled-components, GitHub
+
+  [GitHub Repo](https://github.com/your-repo-link)
+
+  ---
+
+  ### 2. HackUpcBot
+  #### Inspiration
+  The project aimed to simplify note management for students, offering an application to store and retrieve notes efficiently.
+
+  #### What it does
+  Users can create categories and upload PDF files for each category, enabling easy access to information. For instance, a "History" category might contain a PDF file on Queen Elizabeth.
+
+  #### How we built it
+  Backend development used Django (API-REST), and the frontend was developed using Next.js.
+
+  #### Challenges
+  Challenges included data processing difficulties and linking the backend with the frontend.
+
+  #### Accomplishments
+  Proud of creating an application aligning with the initial vision, with plans for future improvements.
+
+  #### What we learned
+  Gained knowledge in creating RESTful APIs and valuable experience with modern development tools.
+
+  #### What's next
+  Plan to continue improving the application and scaling it as necessary.
+
+  #### Built With
+  Django, Next.js, Azure, OpenAI
+
+  [GitHub Repo](https://github.com/your-repo-link)
+
+
 ## Join Us on Our Journey!
 
 Whether you're a fellow enthusiast, a potential collaborator, or just someone interested in our adventures, we welcome you to join us on our journey. Team EPIAHackers is more than just a group; we're a community of learners and creators, passionate about making a difference in the world of technology.
