@@ -56,7 +56,8 @@ Jordi is a passionate full-stack developer specializing in web application secur
 - **HackEPS November 2023 (Lleida)**
   - Project: EPIAHACKERS:INGROUP_CHALLENGE
   - Revolutionizing user feedback management using AI-infused chatbot for insights and issue prioritization.
-  - [GitHub Repo](https://github.com/your-repo-link)
+ - [HackEPS 2023 Devpost](https://devpost.com/software/epiahackers-ingroup_challenge)
+  - [HackEPS 2023 Article](https://www.eps.udl.cat/ca/noticies/Mes-de-165-participants-en-la-7a-edicio-de-la-hackeps/)
 
 - **HackUPC Projects**
   ### 1. Vueling: Flight Fest HACKUPC 2023
